@@ -6,6 +6,7 @@ import Categories from "./Categories";
 import Faq from "./Faq";
 import HowWork from "./HowWork";
 import FeaturePets from "./FeaturePets";
+import Testomonials from "./Testomonials";
 
 
 const Home = () => {
@@ -21,6 +22,7 @@ const Home = () => {
             <AboutUs/>
             <HowWork/>
             <Faq/>
+            <Testomonials/>
             
         </div>
     );

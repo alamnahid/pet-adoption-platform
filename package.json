@@ -28,7 +28,8 @@
     "react-table": "^7.8.0",
     "react-toastify": "^10.0.5",
     "sort-by": "^1.2.0",
-    "sweetalert2": "^11.10.6"
+    "sweetalert2": "^11.10.6",
+    "swiper": "^11.0.7"
   },
   "devDependencies": {
     "@types/react": "^18.2.64",
