@@ -3,7 +3,7 @@ import footprint from "../../assets/Logo/Dog print.png"
 
 const FeaturePetCard = ({pet}) => {
     return (
-        <div>
+        <div data-aos="fade-up" data-aos-duration="2000">
             <div className="w-[20rem] border-2 rounded-xl p-8 border-[#ada7ff5d]">
                 <div className="w-[12rem] mx-auto h-[12rem] rounded-[50%] bg-[#f4f1e9]">
                 <img className="w-[12rem] h-[12rem] rounded-[50%]" src={pet?.image} alt="" />

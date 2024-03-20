@@ -11,21 +11,21 @@ const HowWork = () => {
             </div>
 
             <div className="flex justify-between items-center gap-20">
-                <div className="w-[22rem] hover:text-[#ADA7FF]">
+                <div data-aos="fade-up" data-aos-duration="3000" className="w-[22rem] hover:text-[#ADA7FF]">
                     <img className="mx-auto" src={img1} alt="find your pet" />
                     <h3 className="text-2xl font-bold text-center">Find Your Pet</h3>
                     <p className="mt-4 text-gray-500">Explore our gallery of adorable companions, each with their own story waiting to unfold. From playful pups to affectionate kittens, discover the perfect furry friend to bring love and joy into your home.
                     </p>
                 </div>
 
-                <div className="w-[22rem] hover:text-[#ADA7FF]">
+                <div data-aos="fade-down" data-aos-duration="3500" className="w-[22rem] hover:text-[#ADA7FF]">
                     <img className="mx-auto" src={img2} alt="find your pet" />
                     <h3 className="text-2xl font-bold text-center">Know your pet</h3>
                     <p className="mt-4 text-gray-500">Dive deeper into your potential companion's world. Learn about their personality, preferences, and what makes them unique. Understanding your pet is the first step to a lifelong bond.
                     </p>
                 </div>
 
-                <div className="w-[22rem] hover:text-[#ADA7FF]">
+                <div data-aos="fade-up" data-aos-duration="4000" className="w-[22rem] hover:text-[#ADA7FF]">
                     <img className="mx-auto" src={img3} alt="find your pet" />
                     <h3 className="text-2xl font-bold text-center">Take your pet home</h3>
                     <p className="mt-4 text-gray-500">Ready to make it official? Complete the adoption process, meet your chosen pet, and embark on a journey of love and companionship. Your new family member is waiting to be welcomed home!

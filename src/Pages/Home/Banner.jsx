@@ -24,7 +24,7 @@ const Banner = () => {
 
 
             <div>
-                <img src={bannerimage} alt="banner background image" />
+                <img data-aos="fade-up" data-aos-duration="2000" src={bannerimage} alt="banner background image" />
             </div>
 
         </div>

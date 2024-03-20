@@ -13,39 +13,39 @@ const Categories = () => {
             </div>
             
             <div className="grid grid-cols-6 gap-5 justify-items-center items-centr">
-            <div className="bg-white shadow-md rounded-2xl w-fit h-fit px-20 py-4 hover:bg-[#ADA7FF] cursor-pointer text-gray-600 hover:text-white mt-16">
+            <div data-aos="flip-up" className="bg-white shadow-md rounded-2xl w-fit h-fit px-20 py-4 hover:bg-[#ADA7FF] cursor-pointer text-gray-600 hover:text-white mt-16">
                 <img className="mx-auto" src={dogicon} alt="dog icon" />
                 <h3 className="text-2xl font-bold mt-2 text-center">Dog</h3>
 
             </div>
 
-            <div className="bg-white shadow-md rounded-2xl w-fit h-fit px-20 py-4 hover:bg-[#ADA7FF] cursor-pointer text-gray-600 hover:text-white mt-16">
+            <div data-aos="flip-up" data-aos-duration="1000" className="bg-white shadow-md rounded-2xl w-fit h-fit px-20 py-4 hover:bg-[#ADA7FF] cursor-pointer text-gray-600 hover:text-white mt-16">
                 <img className="mx-auto" src={caticon} alt="dog icon" />
                 <h3 className="text-2xl font-bold mt-2 text-center">Cat</h3>
 
             </div>
 
 
-            <div className="bg-white shadow-md rounded-2xl w-fit h-fit px-20 py-4 hover:bg-[#ADA7FF] cursor-pointer text-gray-600 hover:text-white mt-16">
+            <div data-aos="flip-down" data-aos-duration="1500" className="bg-white shadow-md rounded-2xl w-fit h-fit px-20 py-4 hover:bg-[#ADA7FF] cursor-pointer text-gray-600 hover:text-white mt-16">
                 <img className="mx-auto" src={parroticon} alt="dog icon" />
                 <h3 className="text-2xl font-bold mt-2 text-center">Parrot</h3>
 
             </div>
 
 
-            <div className="bg-white shadow-md rounded-2xl w-fit h-fit px-20 py-4 hover:bg-[#ADA7FF] cursor-pointer text-gray-600 hover:text-white mt-16">
+            <div data-aos="flip-up" data-aos-duration="2000" className="bg-white shadow-md rounded-2xl w-fit h-fit px-20 py-4 hover:bg-[#ADA7FF] cursor-pointer text-gray-600 hover:text-white mt-16">
                 <img className="mx-auto" src={rabbiticon} alt="dog icon" />
                 <h3 className="text-2xl font-bold mt-2 text-center">Rabbit</h3>
 
             </div>
 
 
-            <div className="bg-white shadow-md rounded-2xl w-fit h-fit px-20 py-4 hover:bg-[#ADA7FF] cursor-pointer text-gray-600 hover:text-white mt-16">
+            <div data-aos="flip-down" data-aos-duration="2500" className="bg-white shadow-md rounded-2xl w-fit h-fit px-20 py-4 hover:bg-[#ADA7FF] cursor-pointer text-gray-600 hover:text-white mt-16">
                 <img className="mx-auto" src={fishicon} alt="dog icon" />
                 <h3 className="text-2xl font-bold mt-2 text-center">Fish</h3>
 
             </div>
-            <div className="bg-white shadow-md rounded-2xl w-fit h-fit px-20 py-4 hover:bg-[#ADA7FF] cursor-pointer text-gray-600 hover:text-white mt-16">
+            <div data-aos="flip-up" data-aos-duration="3000" className="bg-white shadow-md rounded-2xl w-fit h-fit px-20 py-4 hover:bg-[#ADA7FF] cursor-pointer text-gray-600 hover:text-white mt-16">
                 <img className="mx-auto" src={birdicon} alt="dog icon" />
                 <h3 className="text-2xl font-bold mt-2 text-center">Bird</h3>
 
