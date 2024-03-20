@@ -4,7 +4,7 @@ import bone from "../../assets/Images/bone.png"
 const AboutUs = () => {
     return (
         <div className="flex justify-between items-center mx-[10%] gap-20 my-20">
-            <div className="hover:shadow-xl hover:shadow-[#ADA7FF] hover:rounded-3xl">
+            <div className="hover:shadow-xl hover:shadow-[#ADA7FF] hover:rounded-3xl ">
                 <img className=" hover:rounded-3xl" src={aboutbg} alt="dog background image" />
             </div>
 

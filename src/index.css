@@ -8,12 +8,20 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    background-attachment: fixed;
+    
 }
 .bgCover{
     background-image: url(./assets/Images/bg-4.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+}
+.home-banner{
+    background-image: url(https://i.ibb.co/ZmXMwWD/home-banner-try.gif);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 400px;
 }
 
 
