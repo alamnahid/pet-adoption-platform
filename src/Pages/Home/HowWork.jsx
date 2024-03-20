@@ -21,8 +21,7 @@ const HowWork = () => {
                 <div data-aos="fade-down" data-aos-duration="3500" className="w-[22rem] hover:text-[#ADA7FF]">
                     <img className="mx-auto" src={img2} alt="find your pet" />
                     <h3 className="text-2xl font-bold text-center">Know your pet</h3>
-                    <p className="mt-4 text-gray-500">Dive deeper into your potential companion's world. Learn about their personality, preferences, and what makes them unique. Understanding your pet is the first step to a lifelong bond.
-                    </p>
+                    
                 </div>
 
                 <div data-aos="fade-up" data-aos-duration="4000" className="w-[22rem] hover:text-[#ADA7FF]">
