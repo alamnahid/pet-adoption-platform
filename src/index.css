@@ -23,6 +23,14 @@
     background-position: left;
     background-size: 400px;
 }
+.testomonials-bg{
+    background-image: url(./assets/Images/slide2.jpg), linear-gradient(rgb(57, 54, 54), rgb(54, 54, 62));
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: overlay;
+    background-attachment: fixed;
+}
 
 
 .dosis {

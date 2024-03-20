@@ -7,7 +7,7 @@ import { useEffect, useState } from "react";
 
 const Testomonials = () => {
     return (
-        <div className="max-w-screen-2xl mx-auto">
+        <div className="px-[10%] mx-auto testomonials-bg min-h-[70vh] pt-52">
            
 
                 <div>
@@ -17,7 +17,7 @@ const Testomonials = () => {
                         <div className="text-center mt-12">
                        
                             <img className="mx-auto mt-12 mb-10" src="" alt="" />
-                            <p className="md:w-[68rem] mx-auto text-[#444] md:text-xl">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum aperiam distinctio corrupti id iure incidunt nam architecto molestias quo enim.</p>
+                            <p className="md:w-[68rem] mx-auto text-white md:text-xl">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum aperiam distinctio corrupti id iure incidunt nam architecto molestias quo enim.</p>
                             <h3 className="text-[#CD9003] mt-4 text-xs md:text-[1.3rem] font-medium">nahid alam</h3>
 
                         </div>
@@ -28,7 +28,7 @@ const Testomonials = () => {
                         <div className="text-center mt-12">
                        
                             <img className="mx-auto mt-12 mb-10" src="" alt="" />
-                            <p className="md:w-[68rem] mx-auto text-[#444] md:text-xl">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum aperiam distinctio corrupti id iure incidunt nam architecto molestias quo enim.</p>
+                            <p className="md:w-[68rem] mx-auto text-white md:text-xl">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum aperiam distinctio corrupti id iure incidunt nam architecto molestias quo enim.</p>
                             <h3 className="text-[#CD9003] mt-4 text-xs md:text-[1.3rem] font-medium">nahid alam</h3>
 
                         </div>
