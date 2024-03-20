@@ -5,6 +5,7 @@ import CallToAction from "./CallToAction";
 import Categories from "./Categories";
 import Faq from "./Faq";
 import HowWork from "./HowWork";
+import FeaturePets from "./FeaturePets";
 
 
 const Home = () => {
@@ -15,6 +16,7 @@ const Home = () => {
         <div>
             <Banner/>
             <Categories/>
+            <FeaturePets/>
             <CallToAction/>
             <AboutUs/>
             <HowWork/>

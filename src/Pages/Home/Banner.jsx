@@ -5,7 +5,7 @@ import steps from "../../assets/Logo/icons8-pet-50.png"
 
 const Banner = () => {
     return (
-        <div className="flex justify-between items-center px-[10%] h-[90vh] home-banner">
+        <div className="flex justify-between items-center px-[10%] h-[90vh]">
             <div className="">
                 <h1 className="text-[#302B3A] font-extrabold text-6xl dosis">Looking for a <span className="text-[#ADA7FF]">good</span> time?</h1>
                 <p className="text-[#404040] mt-8 w-[40vw]">Welcome to Pet Donation Platform, where compassion meets action! Every pet deserves love, care, and a place to call home. Join us in our mission to support shelters, rescue organizations, and furry friends in need.</p>
